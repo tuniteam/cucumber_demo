@@ -1,4 +1,4 @@
-package com.expertsdutest.demo.service;
+package com.expertsdutest.demo;
 
 import java.util.ArrayList;
 import java.util.List;
